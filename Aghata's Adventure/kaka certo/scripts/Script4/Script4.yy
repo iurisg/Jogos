@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script4",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Script4",
+  "parent":{
+    "name":"mapa",
+    "path":"folders/Sprites/mapa.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

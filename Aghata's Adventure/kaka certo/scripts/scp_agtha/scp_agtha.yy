@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scp_agtha",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scp_agtha",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
